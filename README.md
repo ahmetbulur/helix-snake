@@ -6,4 +6,4 @@
 - Information About Game :
 
 ![info1](info1.png)
-![info2](info2.png)
+![info2](info2.png) 
